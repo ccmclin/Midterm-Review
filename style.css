@@ -81,5 +81,6 @@ img {
   background-color: #f9f9f9;
   border-left: 4px solid #0076ff; /* Accent line color */
   font-style: italic;
-  color: #555555;
+  font-size: 14px
+  color: #gold;
 }
