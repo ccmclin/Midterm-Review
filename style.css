@@ -1,0 +1,76 @@
+#content {
+  margin: 0 auto
+  width 900 px
+}
+
+
+#byline {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+
+.header {
+  font-family: Verdana, sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#read-more {
+  font-family: Verdana, sans-serif;
+  font-size: 14px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+.caption {
+  font-family: Verdana, sans-serif;
+  font-size: 12px;
+  color: gray
+}
+
+#more-links {
+ font-family: Verdana, sans-serif;
+ font-size: 14px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;          
+  gap: 2rem; 
+  font-family: Verdana, sans-serif;
+  font-size: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: white;
+}
+
+.site-header {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;        
+  position: sticky;      
+  top: 0;
+}
+
+#site-title {
+  font-family: Verdana, sans-serif;
+  font-size: 24px;
+  color: gold;
+  align-items: center;
+}
+
+.nav-links a:hover {
+  color: gold
+}
